@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="32"
+   viewBox="0 0 64.000001 32.000001"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="button_sugar.svg"
+   inkscape:export-filename="/mnt/A47882A2788272BA/User/juciano/Documentos/UCS/2016-4/PROGRAMACAO_CONCORRENTE/TRABALHO/sprites/button_sugar.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4144"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#008080;stop-opacity:1;"
+         offset="0"
+         id="stop4146" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="13.173943"
+     inkscape:cx="7.0555751"
+     inkscape:cy="13.800657"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1020.3622)">
+    <rect
+       style="opacity:1;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4142"
+       width="64"
+       height="32"
+       x="0"
+       y="1020.3622" />
+    <rect
+       style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:#00ffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4154"
+       width="24"
+       height="24"
+       x="35.815113"
+       y="1024.3622" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="39.436207"
+       y="1042.6317"
+       id="text4156"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4158"
+         x="39.436207"
+         y="1042.6317"
+         style="fill:#ffffff;stroke:#ffffff">+</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4154-3"
+       width="24"
+       height="24"
+       x="4.1848855"
+       y="1024.3622" />
+    <image
+       y="1024.3622"
+       x="4.1848855"
+       id="image3454"
+       xlink:href="data:image/png;base64,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
+"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="24"
+       width="24" />
+  </g>
+</svg>
